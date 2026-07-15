@@ -1,0 +1,24 @@
+# Runtime logs
+*.log
+server.out.log
+server.err.log
+
+# Uploaded files generated during local testing
+uploads/products/*
+!uploads/products/.gitkeep
+uploads/payments/*
+!uploads/payments/.gitkeep
+uploads/profiles/*
+!uploads/profiles/.gitkeep
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Codex/local agent metadata
+.agents/
+.codex/
+.git_broken_empty*/
+uplouds/
