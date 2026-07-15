@@ -18,7 +18,4 @@ Thumbs.db
 .idea/
 
 # Codex/local agent metadata
-.agents/
-.codex/
-.git_broken_empty*/
-uplouds/
+uplouds/u
